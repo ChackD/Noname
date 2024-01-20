@@ -6,6 +6,12 @@
 			"surname":"Kacmar",
 			"balance":"1500"
 		},
+		{
+		"id":2,
+			"name":"SLava",
+			"surname":"Kulish",
+			"balance":"150"
+		},
 		
 	],
 	
