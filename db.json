@@ -12,6 +12,12 @@
 			"surname":"Kulish",
 			"balance":"150"
 		},
+		{
+			"id":3,
+			"name":"Danya",
+			"surname":"Huzul",
+			"balance":"2000"
+		}
 		
 	],
 	
